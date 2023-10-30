@@ -12,4 +12,9 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 3.7rem;
+}
+
+main {
+    padding-inline: 1.5rem;
 }
